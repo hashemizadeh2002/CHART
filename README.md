@@ -1,4 +1,5 @@
 # CHART
+```mermaid
 graph TD
     subgraph UDEs [اثرات نامطلوب مشهود]
         A["OKR بهره‌وری محقق نمی‌شود"]
